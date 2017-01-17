@@ -4,11 +4,11 @@
 一个简单的Python爬虫, 使用了多线程, 
 爬取豆瓣Top前250的所有电影
 
-Anthor: Andrew Liu
+Anthor: yinni
 Version: 0.0.2
-Date: 2014-12-14
-Language: Python2.7.8
-Editor: Sublime Text2
+Date: 2017.1.17
+Language: Python2.7.9
+Editor: Sublime Text3/Ulipad
 Operate: 具体操作请看README.md介绍
 """
 
