@@ -1,0 +1,2 @@
+# Python_DoubanFilm02
+Python多线程实现豆瓣信息抓取
